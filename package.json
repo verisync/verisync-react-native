@@ -101,7 +101,8 @@
       "tagName": "v${version}"
     },
     "npm": {
-      "publish": true
+      "publish": true,
+      "access": "public"
     },
     "github": {
       "release": true
@@ -155,5 +156,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "react-native-webview": "^13.8.1"
   }
 }
