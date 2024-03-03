@@ -1,6 +1,6 @@
 {
   "name": "verisync-react-native",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Verisync simplifies KYC for clients and customers.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
